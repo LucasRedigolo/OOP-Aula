@@ -6,7 +6,7 @@ namespace OOP_Aula
     {
         static void Main(string[] args)
         {
-            carro carro1 = new carro();
+            Carro carro1 = new Carro();
             carro1.cor = "Azul";
             carro1.modelo = "Uno";
             carro1.ano = 2017;
@@ -17,36 +17,37 @@ namespace OOP_Aula
 
 
             //  System.Console.WriteLine(carro1.modelo + " " + carro1.cor + " " + carro1.ano);
-            carro1.MostrarDados(carro1.modelo, carro1.cor, carro1.ano, carro1.opc);
+            carro1.MostrarDados(carro1);
 
-            carro carro2 = new carro(); // cria novo objeto
-            carro2.cor = "Branco"; // cria os parametros dos objetos
-            carro2.modelo = "Fiesta";
-            carro2.ano = 2004;
+            /* Carro carro2 = new Carro(); // cria novo objeto
+             carro2.cor = "Branco"; // cria os parametros dos objetos
+             carro2.modelo = "Fiesta";
+             carro2.ano = 2004;
 
-            carro2.MostrarDados(carro2.modelo, carro2.cor, carro2.ano, carro1.opc);
-            carro2.LigarCarro();
+             carro2.MostrarDados(carro2.modelo, carro2.cor, carro2.ano, carro1.opc);
+             carro2.LigarCarro();
+         }
+
+         /*         static void CPF()
+
+                 {    string cpf;
+
+                     System.Console.WriteLine("Digite seu CPF");
+                     cpf = Console.ReadLine();
+
+                     Validacao validadocumento = new Validacao();
+                     bool cpfvalido = validadocumento.checagemcpf(cpf);
+
+                     if (cpfvalido)
+                     {
+                         System.Console.WriteLine("CPF VÁLIDO!");
+                     }
+                     else
+                     {
+                         System.Console.WriteLine("CPF INVÁLIDO!");
+                     }
+                 }*/
+
         }
-
-        /*         static void CPF()
-
-                {    string cpf;
-
-                    System.Console.WriteLine("Digite seu CPF");
-                    cpf = Console.ReadLine();
-
-                    Validacao validadocumento = new Validacao();
-                    bool cpfvalido = validadocumento.checagemcpf(cpf);
-
-                    if (cpfvalido)
-                    {
-                        System.Console.WriteLine("CPF VÁLIDO!");
-                    }
-                    else
-                    {
-                        System.Console.WriteLine("CPF INVÁLIDO!");
-                    }
-                }*/
-
     }
 }

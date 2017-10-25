@@ -1,0 +1,10 @@
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\bin\Debug\netcoreapp2.0\OOP-Aula.deps.json
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\bin\Debug\netcoreapp2.0\OOP-Aula.runtimeconfig.json
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\bin\Debug\netcoreapp2.0\OOP-Aula.runtimeconfig.dev.json
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\bin\Debug\netcoreapp2.0\OOP-Aula.dll
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\bin\Debug\netcoreapp2.0\OOP-Aula.pdb
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\obj\Debug\netcoreapp2.0\OOP-Aula.csproj.CoreCompileInputs.cache
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\obj\Debug\netcoreapp2.0\OOP-Aula.AssemblyInfoInputs.cache
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\obj\Debug\netcoreapp2.0\OOP-Aula.AssemblyInfo.cs
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\obj\Debug\netcoreapp2.0\OOP-Aula.dll
+c:\Users\43692939876\Desktop\Projetos\OOP-Aula\obj\Debug\netcoreapp2.0\OOP-Aula.pdb
